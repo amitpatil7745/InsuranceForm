@@ -20,7 +20,7 @@ public class Insurance {
 	String cost;
 
 	public Insurance(Integer id, String insuranceName, String userName, String city, String mobileNumber, String cost) {
-		//super();
+		
 		this.id = id;
 		this.insuranceName = insuranceName;
 		this.userName = userName;
